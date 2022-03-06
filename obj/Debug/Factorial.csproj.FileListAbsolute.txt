@@ -1,0 +1,10 @@
+C:\Users\METRO\source\repos\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\METRO\source\repos\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\METRO\source\repos\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\METRO\source\repos\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\METRO\source\repos\Factorial\Factorial\obj\Debug\Factorial.Form1.resources
+C:\Users\METRO\source\repos\Factorial\Factorial\obj\Debug\Factorial.Properties.Resources.resources
+C:\Users\METRO\source\repos\Factorial\Factorial\obj\Debug\Factorial.csproj.GenerateResource.cache
+C:\Users\METRO\source\repos\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\METRO\source\repos\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\METRO\source\repos\Factorial\Factorial\obj\Debug\Factorial.pdb
